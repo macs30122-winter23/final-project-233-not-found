@@ -22,11 +22,9 @@ Because of the recently breaking news of Supreme Court overturning Roe v. Wade, 
 
 * We gathered information of economic, education, health gender gap, political empowerment, rape rate, and ruling result of each state from multiple sources. 
 
-1. Economic data from United States Census Bureau website.
-	https://data.census.gov/table?q=earnings++by+sex+in+%09Virginia&tid=ACSST1Y2019.S2001 (Official data)
+1. Economic data from United States Census Bureau website. https://data.census.gov/table?q=earnings++by+sex+in+%09Virginia&tid=ACSST1Y2019.S2001 (Official data)
   
-2. Education attainment data from SEX BY AGE BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 18 YEARS AND OVER in United States Census Bureau website. 
-https://data.census.gov/table?q=2021+SEX+BY+AGE+BY+EDUCATIONAL+ATTAINMENT+FOR+THE+POPULATION+18+YEARS+AND+OVER&t=Populations+and+People&g=0100000US$0400000 (Official data)
+2. Education attainment data from SEX BY AGE BY EDUCATIONAL ATTAINMENT FOR THE POPULATION 18 YEARS AND OVER in United States Census Bureau website. https://data.census.gov/table?q=2021+SEX+BY+AGE+BY+EDUCATIONAL+ATTAINMENT+FOR+THE+POPULATION+18+YEARS+AND+OVER&t=Populations+and+People&g=0100000US$0400000 (Official data)
 
 3. Sex ratio data from United States Census Bureau website and life expectancy data from both National Center for Disease Control and Prevention and United States Mortality Rates and Life Expectancy by State, Race, and Ethnicity.
 https://ghdx.healthdata.org/us-data
