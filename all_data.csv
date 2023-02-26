@@ -1,4 +1,4 @@
-state,bachelor,graduate,hs,governor,lt_governor,labour_force_participation,mngmt_job_wage_gap,bachelor_wage_gap,ab_legality,rape_rate,abortion_rate
+state,education,year,state_legislature,governor,lt_governor,labour_force_participation,mngmt_job_wage_gap,bachelor_wage_gap,ab_legality,rape_rate,abortion_rate
 Alabama,1.18,2020,0.157,1.0,0.0,0.782,0.64,25.1,0,32.7,113.548
 Alaska,1.014,2020,0.367,0.0,0.0,0.795,0.779,18.1,1,154.8,164.547
 Arizona,1.112,2020,0.389,0.0,0.0,0.789,0.701,23.2,1,44.0,184.862
