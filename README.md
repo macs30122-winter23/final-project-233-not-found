@@ -6,7 +6,7 @@ Explore the relationships between crime against women and five of the following 
 
 Use the five features above to predict rape rate.
 
-### Social Science Significance/Relevance of the project
+### Social Science Significance/Relevance of the Project
 
 For nearly 30 years, feminist researchers have argued that in order to alleviate crimes against women and to stop men’s use of violence against women, structures of gender inequality at the societal level must change (Yodanis, 2004). Since crime against women and gender inequality are closely related and able to mirror women’s status to some extent, it is important and perhaps enlightening to analyze the relationship between gender gap and crimes against women. Furthermore, political discourse often contributes to public’s opinion on gender inequality and social institutions’ practice on decreasing gender gap. Therefore, we consider political discourse from women’s political empowerment and employ gender gaps from the dimension of economic, education, health to evaluate gender inequality among 50 states in the U.S. 
 
