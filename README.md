@@ -1,7 +1,5 @@
 ## GitHub Repository for Group 233 Not Found
 
- and describes how to run the software
-
 ### Project Goals
 
 Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion.
@@ -60,5 +58,9 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * requests version: 2.27.1
 
 ### Data Analysis: Regression, Prediction, and Visualization
+
+To Be Added
+
+### How to run software?
 
 To Be Added
