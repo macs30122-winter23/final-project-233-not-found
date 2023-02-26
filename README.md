@@ -1,26 +1,26 @@
-### GitHub Repository for Group 233 Not Found
+## GitHub Repository for Group 233 Not Found
 
  and describes how to run the software
 
-#### Project Goals
+### Project Goals
 
 Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion.
 
 Use the five features above to predict rape rate.
 
-#### Social Science Significance/Relevance of the project
+### Social Science Significance/Relevance of the project
 
 For nearly 30 years, feminist researchers have argued that in order to alleviate crimes against women and to stop men’s use of violence against women, structures of gender inequality at the societal level must change (Yodanis, 2004). Since crime against women and gender inequality are closely related and able to mirror women’s status to some extent, it is important and perhaps enlightening to analyze the relationship between gender gap and crimes against women. Furthermore, political discourse often contributes to public’s opinion on gender inequality and social institutions’ practice on decreasing gender gap. Therefore, we consider political discourse from women’s political empowerment and employ gender gaps from the dimension of economic, education, health to evaluate gender inequality among 50 states in the U.S. 
 
 Because of the recently breaking news of Supreme Court overturning Roe v. Wade, which ended 50 years of federal abortion rights, we decided to include each state’s jurisdiction outcome regarding to abortion. Recent studies have linked opposition to abortion with ambivalent sexism and crimes against women (Henry et al., 2022). 
 
-#### Team Member
+### Team Member
 * Yingzi Jin
 * April Wang
 * Ruoyi Wu
 * Guangjie Xu
 
-#### Data
+### Data
 
 * We gathered information of economic, education, health gender gap, political empowerment, rape rate, and ruling result of each state from multiple sources. 
 
@@ -48,7 +48,7 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 
 * We transformed the data from csv files, pdf files, and web scraped data to a final csv file of all 50 states in the U.S. from 2011-2020.
 
-#### Libraries
+### Libraries
 
 * Matplotlib version: 3.5.1
 * Seaborn version: 0.11.2
@@ -59,6 +59,6 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * bs4 version: 4.11.1
 * requests version: 2.27.1
 
-#### Data Analysis: Regression, Prediction, and Visualization
+### Data Analysis: Regression, Prediction, and Visualization
 
 To Be Added
