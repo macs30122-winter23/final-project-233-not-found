@@ -12,7 +12,10 @@ state-level abortion law), relate to the prevalence of crimes against women in t
 * To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
 
 ### Findings:
-Machine Learning Model Performance：
+1. Statistical Analysis:
+
+
+2. Machine Learning Model Performance：
  
 We used linear regression with PCA, linear regression without PCA, random forest regression, lasso regression, ridge regression and SVR to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared around 0.60. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is low for human behavior related research.
 
