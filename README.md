@@ -7,23 +7,17 @@
 * Use the five features above to predict rape rate.
 
 ### Research Question:
+
 * How does gender inequality, as measured by our 5 indicators (economic gender gap, education gender gap, health gender gap, political empowerment, and 
 state-level abortion law), relate to the prevalence of crimes against women in the United States? 
 * To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
 
-### Findings:
-1. Statistical Analysis:
-
-
-2. Machine Learning Model Performance：
- 
-We used linear regression with PCA, linear regression without PCA, random forest regression, lasso regression, ridge regression and SVR to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared around 0.60. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is low for human behavior related research.
-
 ### Overall findings：
+
 * Genrally, higher gender inequality predicts lower rape rate.
 * Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
 * We are not sure about why life expectancy of women positively predicts rape rate. We hypothesize that this positive correlation may due to a high mortality of young men caused by lower public safety. Future work is needed to substantiate this hypothesis.
-* SVR and RF model has the best performance on non-linear multivariate regression task.
+* Machine Learning Model Performance：We used linear regression with PCA, linear regression without PCA, random forest regression, lasso regression, ridge regression and SVR to perform our prediction task, and we found that the random forest model and SVR model performed the best with R-squared scores around 0.60, as they are best for non-linear multivariate regression task. For the other models, although the R-squared is approximately 0.38, it is common that the R-squared is low for human behavior related research.
 
 ### Team Member
 * Yingzi Jin
@@ -69,6 +63,7 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * requests version: 2.27.1
 
 ### How to navigate the Github repo
+
 * The first thing to note in github is the folder **data**, which contains several small folders, each containing the raw data for each variable and the corresponding data cleaning ipynb file.
 * Next is the **cleaned_data** folder, which contains all the csv data after data cleaning, as well as all_data.ipynb that brings all the data together.
 * When all the data is processed we generate the file **all_data.csv**.
@@ -76,6 +71,7 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * In **pca_regress.ipynb**, we first applied PCA for dimensionality reduction, and then used multiple machine learning regression models to predict the data and analyze the performance of the models.
 
 ### Responsibilities
+
 * Yingzi Jin: Collected and preprocessed political empowerment data and abortion rate data, conducted traditional statistical analysis, and developed interpretations and possible explanations 
 * April Wang: Collected and preprocessed education gender gap data and state crime data, conducted exploratory data analysis, and produced the presentation slides 
 * Ruoyi Wu: Collected and preprocessed health gender gap, web scraped each state’s abortion legality, and conducted data visualization and ML modeling  
