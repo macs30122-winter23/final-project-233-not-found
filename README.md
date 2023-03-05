@@ -7,13 +7,13 @@
 
 * Use the five features above to predict rape rate.
 
-### Research Question:
+### Research Question
 
 * How does gender inequality, as measured by our 5 indicators (economic gender gap, education gender gap, health gender gap, political empowerment, and 
 state-level abortion law), relate to the prevalence of crimes against women in the United States? 
 * To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
 
-### Overall findings：
+### Overall findings
 
 * Genrally, higher gender inequality predicts lower rape rate.
 * Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
