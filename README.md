@@ -14,7 +14,7 @@ state-level abortion law), relate to the prevalence of crimes against women in t
 ### Findings:
 Machine Learning Model Performance：
  
-We used linear regression with pca, linear regression without pca, random forest regression, lasso regression, ridge regression and SVR regression to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared up to 0.60+. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is lower for human behavior related research.
+We used linear regression with PCA, linear regression without PCA, random forest regression, lasso regression, ridge regression and SVR to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared around 0.60. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is low for human behavior related research.
 
 ### Overall findings：
 * Genrally, higher gender inequality predicts lower rape rate.
