@@ -63,6 +63,10 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * bs4 version: 4.11.1
 * requests version: 2.27.1
 
+# How to navigate the Github repo
+* The first thing to note in github is the folder data, which contains several small folders, each containing the raw data for each variable and the corresponding data cleaning ipynb file.
+* Next is the cleaned_data folder, which contains all the csv data after data cleaning, as well as all_data.ipynb that brings all the data together.
+
 ### Responsibilities:
 * April: Collect, clean, and preprocess education attainment data across 50 states from 2011 to 2020; obtain csv file for state crime data; data exploration and obtain correlation between variables 
 * Yingzi: Collect, clean, and preprocess political empowerment data across 50 states from 2011 to 2020; preprocess the crime data to obtain rape rate; modelling 
