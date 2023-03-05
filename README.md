@@ -23,7 +23,7 @@ We used linear regression with PCA, linear regression without PCA, random forest
 * Genrally, higher gender inequality predicts lower rape rate.
 * Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
 * We are not sure about why life expectancy of women positively predicts rape rate. We hypothesize that this positive correlation may due to a high mortality of young men caused by lower public safety. Future work is needed to substantiate this hypothesis.
-* RF model has the best performance on non-linear multivariate regression task.
+* SVR and RF model has the best performance on non-linear multivariate regression task.
 
 ### Team Member
 * Yingzi Jin
