@@ -63,7 +63,7 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * bs4 version: 4.11.1
 * requests version: 2.27.1
 
-# How to navigate the Github repo
+### How to navigate the Github repo
 * The first thing to note in github is the folder data, which contains several small folders, each containing the raw data for each variable and the corresponding data cleaning ipynb file.
 * Next is the cleaned_data folder, which contains all the csv data after data cleaning, as well as all_data.ipynb that brings all the data together.
 * When all the data is processed we generate the file all_data.csv.
