@@ -6,12 +6,20 @@ Explore the relationships between crime against women and five of the following 
 
 Use the five features above to predict rape rate.
 
-### Social Science Significance/Relevance of the Project
+### Research Question:
+How does gender inequality, as measured by our 5 indicators (economic gender gap, education gender gap, health gender gap, political empowerment, and 
+state-level abortion law), relate to the prevalence of crimes against women in the United States? 
+To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
 
-For nearly 30 years, feminist researchers have argued that in order to alleviate crimes against women and to stop men’s use of violence against women, structures of gender inequality at the societal level must change (Yodanis, 2004). Since crime against women and gender inequality are closely related and able to mirror women’s status to some extent, it is important and perhaps enlightening to analyze the relationship between gender gap and crimes against women. Furthermore, political discourse often contributes to public’s opinion on gender inequality and social institutions’ practice on decreasing gender gap. Therefore, we consider political discourse from women’s political empowerment and employ gender gaps from the dimension of economic, education, health to evaluate gender inequality among 50 states in the U.S. 
+### Findings:
+ Machine Learning Model Performance：
+ We used linear regression with pca, linear regression without pca, random forest regression, lasso regression, ridge regression and SVR regression to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared up to 0.60+. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is lower for human behavior related research.
 
-Because of the recently breaking news of Supreme Court overturning Roe v. Wade, which ended 50 years of federal abortion rights, we decided to include each state’s jurisdiction outcome regarding to abortion. Recent studies have linked opposition to abortion with ambivalent sexism and crimes against women (Henry et al., 2022). 
-
+### Overall findings：
+* Genrally, higher gender inequality predicts lower rape rate
+* Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
+* We are not sure about why life expectancy of women positively predicts rape rate. We hypothesize that this positive correlation may due to a high mortality of young men caused by lower public safety. Future work is needed to substantiate this hypothesis.
+* RF model has the best performance on non-linear multivariate regression task
 ### Team Member
 * Yingzi Jin
 * April Wang
@@ -55,6 +63,13 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * bs4 version: 4.11.1
 * requests version: 2.27.1
 
+### Responsibilities:
+* April: Collect, clean, and preprocess education attainment data across 50 states from 2011 to 2020; obtain csv file for state crime data; data exploration and obtain correlation between variables 
+* Yingzi: Collect, clean, and preprocess political empowerment data across 50 states from 2011 to 2020; preprocess the crime data to obtain rape rate; modelling 
+* Ruoyi: Collect, clean, and preprocess health gender gap data across 50 states from 2011 to 2020; data analysis  
+* Guangjie: Collect and preprocess economic gender gap data across 50 states from 2011 to 2020; data visualization and display 
+
+### Slides Link:https://drive.google.com/file/d/17v2EpZjToqs1shmj8NEBZ9niwyK1FeS-/view?usp=share_link
 ### Data Analysis: Regression, Prediction, and Visualization
 
 To Be Added
