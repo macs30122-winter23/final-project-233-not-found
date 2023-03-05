@@ -1,0 +1,501 @@
+state,legality,year
+Alaska,1,2011
+Alabama,0,2011
+Arkansas,0,2011
+Arizona,1,2011
+California,1,2011
+Colorado,1,2011
+Connecticut,1,2011
+Delaware,1,2011
+Florida,1,2011
+Georgia,1,2011
+Hawaii,1,2011
+Iowa,1,2011
+Idaho,0,2011
+Illinois,1,2011
+Indiana,0,2011
+Kansas,1,2011
+Kentucky,0,2011
+Louisiana,0,2011
+Massachusetts,1,2011
+Maryland,1,2011
+Maine,1,2011
+Michigan,1,2011
+Minnesota,1,2011
+Missouri,0,2011
+Mississippi,0,2011
+Montana,1,2011
+North Carolina,1,2011
+North Dakota,1,2011
+Nebraska,1,2011
+New Hampshire,1,2011
+New Jersey,1,2011
+New Mexico,1,2011
+Nevada,1,2011
+New York,1,2011
+Ohio,1,2011
+Oklahoma,0,2011
+Oregon,1,2011
+Pennsylvania,1,2011
+Rhode Island,1,2011
+South Carolina,1,2011
+South Dakota,0,2011
+Tennessee,0,2011
+Texas,0,2011
+Utah,1,2011
+Virginia,1,2011
+Vermont,1,2011
+Washington,1,2011
+Wisconsin,0,2011
+West Virginia,0,2011
+Wyoming,1,2011
+Alaska,1,2012
+Alabama,0,2012
+Arkansas,0,2012
+Arizona,1,2012
+California,1,2012
+Colorado,1,2012
+Connecticut,1,2012
+Delaware,1,2012
+Florida,1,2012
+Georgia,1,2012
+Hawaii,1,2012
+Iowa,1,2012
+Idaho,0,2012
+Illinois,1,2012
+Indiana,0,2012
+Kansas,1,2012
+Kentucky,0,2012
+Louisiana,0,2012
+Massachusetts,1,2012
+Maryland,1,2012
+Maine,1,2012
+Michigan,1,2012
+Minnesota,1,2012
+Missouri,0,2012
+Mississippi,0,2012
+Montana,1,2012
+North Carolina,1,2012
+North Dakota,1,2012
+Nebraska,1,2012
+New Hampshire,1,2012
+New Jersey,1,2012
+New Mexico,1,2012
+Nevada,1,2012
+New York,1,2012
+Ohio,1,2012
+Oklahoma,0,2012
+Oregon,1,2012
+Pennsylvania,1,2012
+Rhode Island,1,2012
+South Carolina,1,2012
+South Dakota,0,2012
+Tennessee,0,2012
+Texas,0,2012
+Utah,1,2012
+Virginia,1,2012
+Vermont,1,2012
+Washington,1,2012
+Wisconsin,0,2012
+West Virginia,0,2012
+Wyoming,1,2012
+Alaska,1,2013
+Alabama,0,2013
+Arkansas,0,2013
+Arizona,1,2013
+California,1,2013
+Colorado,1,2013
+Connecticut,1,2013
+Delaware,1,2013
+Florida,1,2013
+Georgia,1,2013
+Hawaii,1,2013
+Iowa,1,2013
+Idaho,0,2013
+Illinois,1,2013
+Indiana,0,2013
+Kansas,1,2013
+Kentucky,0,2013
+Louisiana,0,2013
+Massachusetts,1,2013
+Maryland,1,2013
+Maine,1,2013
+Michigan,1,2013
+Minnesota,1,2013
+Missouri,0,2013
+Mississippi,0,2013
+Montana,1,2013
+North Carolina,1,2013
+North Dakota,1,2013
+Nebraska,1,2013
+New Hampshire,1,2013
+New Jersey,1,2013
+New Mexico,1,2013
+Nevada,1,2013
+New York,1,2013
+Ohio,1,2013
+Oklahoma,0,2013
+Oregon,1,2013
+Pennsylvania,1,2013
+Rhode Island,1,2013
+South Carolina,1,2013
+South Dakota,0,2013
+Tennessee,0,2013
+Texas,0,2013
+Utah,1,2013
+Virginia,1,2013
+Vermont,1,2013
+Washington,1,2013
+Wisconsin,0,2013
+West Virginia,0,2013
+Wyoming,1,2013
+Alaska,1,2014
+Alabama,0,2014
+Arkansas,0,2014
+Arizona,1,2014
+California,1,2014
+Colorado,1,2014
+Connecticut,1,2014
+Delaware,1,2014
+Florida,1,2014
+Georgia,1,2014
+Hawaii,1,2014
+Iowa,1,2014
+Idaho,0,2014
+Illinois,1,2014
+Indiana,0,2014
+Kansas,1,2014
+Kentucky,0,2014
+Louisiana,0,2014
+Massachusetts,1,2014
+Maryland,1,2014
+Maine,1,2014
+Michigan,1,2014
+Minnesota,1,2014
+Missouri,0,2014
+Mississippi,0,2014
+Montana,1,2014
+North Carolina,1,2014
+North Dakota,1,2014
+Nebraska,1,2014
+New Hampshire,1,2014
+New Jersey,1,2014
+New Mexico,1,2014
+Nevada,1,2014
+New York,1,2014
+Ohio,1,2014
+Oklahoma,0,2014
+Oregon,1,2014
+Pennsylvania,1,2014
+Rhode Island,1,2014
+South Carolina,1,2014
+South Dakota,0,2014
+Tennessee,0,2014
+Texas,0,2014
+Utah,1,2014
+Virginia,1,2014
+Vermont,1,2014
+Washington,1,2014
+Wisconsin,0,2014
+West Virginia,0,2014
+Wyoming,1,2014
+Alaska,1,2015
+Alabama,0,2015
+Arkansas,0,2015
+Arizona,1,2015
+California,1,2015
+Colorado,1,2015
+Connecticut,1,2015
+Delaware,1,2015
+Florida,1,2015
+Georgia,1,2015
+Hawaii,1,2015
+Iowa,1,2015
+Idaho,0,2015
+Illinois,1,2015
+Indiana,0,2015
+Kansas,1,2015
+Kentucky,0,2015
+Louisiana,0,2015
+Massachusetts,1,2015
+Maryland,1,2015
+Maine,1,2015
+Michigan,1,2015
+Minnesota,1,2015
+Missouri,0,2015
+Mississippi,0,2015
+Montana,1,2015
+North Carolina,1,2015
+North Dakota,1,2015
+Nebraska,1,2015
+New Hampshire,1,2015
+New Jersey,1,2015
+New Mexico,1,2015
+Nevada,1,2015
+New York,1,2015
+Ohio,1,2015
+Oklahoma,0,2015
+Oregon,1,2015
+Pennsylvania,1,2015
+Rhode Island,1,2015
+South Carolina,1,2015
+South Dakota,0,2015
+Tennessee,0,2015
+Texas,0,2015
+Utah,1,2015
+Virginia,1,2015
+Vermont,1,2015
+Washington,1,2015
+Wisconsin,0,2015
+West Virginia,0,2015
+Wyoming,1,2015
+Alaska,1,2016
+Alabama,0,2016
+Arkansas,0,2016
+Arizona,1,2016
+California,1,2016
+Colorado,1,2016
+Connecticut,1,2016
+Delaware,1,2016
+Florida,1,2016
+Georgia,1,2016
+Hawaii,1,2016
+Iowa,1,2016
+Idaho,0,2016
+Illinois,1,2016
+Indiana,0,2016
+Kansas,1,2016
+Kentucky,0,2016
+Louisiana,0,2016
+Massachusetts,1,2016
+Maryland,1,2016
+Maine,1,2016
+Michigan,1,2016
+Minnesota,1,2016
+Missouri,0,2016
+Mississippi,0,2016
+Montana,1,2016
+North Carolina,1,2016
+North Dakota,1,2016
+Nebraska,1,2016
+New Hampshire,1,2016
+New Jersey,1,2016
+New Mexico,1,2016
+Nevada,1,2016
+New York,1,2016
+Ohio,1,2016
+Oklahoma,0,2016
+Oregon,1,2016
+Pennsylvania,1,2016
+Rhode Island,1,2016
+South Carolina,1,2016
+South Dakota,0,2016
+Tennessee,0,2016
+Texas,0,2016
+Utah,1,2016
+Virginia,1,2016
+Vermont,1,2016
+Washington,1,2016
+Wisconsin,0,2016
+West Virginia,0,2016
+Wyoming,1,2016
+Alaska,1,2017
+Alabama,0,2017
+Arkansas,0,2017
+Arizona,1,2017
+California,1,2017
+Colorado,1,2017
+Connecticut,1,2017
+Delaware,1,2017
+Florida,1,2017
+Georgia,1,2017
+Hawaii,1,2017
+Iowa,1,2017
+Idaho,0,2017
+Illinois,1,2017
+Indiana,0,2017
+Kansas,1,2017
+Kentucky,0,2017
+Louisiana,0,2017
+Massachusetts,1,2017
+Maryland,1,2017
+Maine,1,2017
+Michigan,1,2017
+Minnesota,1,2017
+Missouri,0,2017
+Mississippi,0,2017
+Montana,1,2017
+North Carolina,1,2017
+North Dakota,1,2017
+Nebraska,1,2017
+New Hampshire,1,2017
+New Jersey,1,2017
+New Mexico,1,2017
+Nevada,1,2017
+New York,1,2017
+Ohio,1,2017
+Oklahoma,0,2017
+Oregon,1,2017
+Pennsylvania,1,2017
+Rhode Island,1,2017
+South Carolina,1,2017
+South Dakota,0,2017
+Tennessee,0,2017
+Texas,0,2017
+Utah,1,2017
+Virginia,1,2017
+Vermont,1,2017
+Washington,1,2017
+Wisconsin,0,2017
+West Virginia,0,2017
+Wyoming,1,2017
+Alaska,1,2018
+Alabama,0,2018
+Arkansas,0,2018
+Arizona,1,2018
+California,1,2018
+Colorado,1,2018
+Connecticut,1,2018
+Delaware,1,2018
+Florida,1,2018
+Georgia,1,2018
+Hawaii,1,2018
+Iowa,1,2018
+Idaho,0,2018
+Illinois,1,2018
+Indiana,0,2018
+Kansas,1,2018
+Kentucky,0,2018
+Louisiana,0,2018
+Massachusetts,1,2018
+Maryland,1,2018
+Maine,1,2018
+Michigan,1,2018
+Minnesota,1,2018
+Missouri,0,2018
+Mississippi,0,2018
+Montana,1,2018
+North Carolina,1,2018
+North Dakota,1,2018
+Nebraska,1,2018
+New Hampshire,1,2018
+New Jersey,1,2018
+New Mexico,1,2018
+Nevada,1,2018
+New York,1,2018
+Ohio,1,2018
+Oklahoma,0,2018
+Oregon,1,2018
+Pennsylvania,1,2018
+Rhode Island,1,2018
+South Carolina,1,2018
+South Dakota,0,2018
+Tennessee,0,2018
+Texas,0,2018
+Utah,1,2018
+Virginia,1,2018
+Vermont,1,2018
+Washington,1,2018
+Wisconsin,0,2018
+West Virginia,0,2018
+Wyoming,1,2018
+Alaska,1,2019
+Alabama,0,2019
+Arkansas,0,2019
+Arizona,1,2019
+California,1,2019
+Colorado,1,2019
+Connecticut,1,2019
+Delaware,1,2019
+Florida,1,2019
+Georgia,1,2019
+Hawaii,1,2019
+Iowa,1,2019
+Idaho,0,2019
+Illinois,1,2019
+Indiana,0,2019
+Kansas,1,2019
+Kentucky,0,2019
+Louisiana,0,2019
+Massachusetts,1,2019
+Maryland,1,2019
+Maine,1,2019
+Michigan,1,2019
+Minnesota,1,2019
+Missouri,0,2019
+Mississippi,0,2019
+Montana,1,2019
+North Carolina,1,2019
+North Dakota,1,2019
+Nebraska,1,2019
+New Hampshire,1,2019
+New Jersey,1,2019
+New Mexico,1,2019
+Nevada,1,2019
+New York,1,2019
+Ohio,1,2019
+Oklahoma,0,2019
+Oregon,1,2019
+Pennsylvania,1,2019
+Rhode Island,1,2019
+South Carolina,1,2019
+South Dakota,0,2019
+Tennessee,0,2019
+Texas,0,2019
+Utah,1,2019
+Virginia,1,2019
+Vermont,1,2019
+Washington,1,2019
+Wisconsin,0,2019
+West Virginia,0,2019
+Wyoming,1,2019
+Alaska,1,2020
+Alabama,0,2020
+Arkansas,0,2020
+Arizona,1,2020
+California,1,2020
+Colorado,1,2020
+Connecticut,1,2020
+Delaware,1,2020
+Florida,1,2020
+Georgia,1,2020
+Hawaii,1,2020
+Iowa,1,2020
+Idaho,0,2020
+Illinois,1,2020
+Indiana,0,2020
+Kansas,1,2020
+Kentucky,0,2020
+Louisiana,0,2020
+Massachusetts,1,2020
+Maryland,1,2020
+Maine,1,2020
+Michigan,1,2020
+Minnesota,1,2020
+Missouri,0,2020
+Mississippi,0,2020
+Montana,1,2020
+North Carolina,1,2020
+North Dakota,1,2020
+Nebraska,1,2020
+New Hampshire,1,2020
+New Jersey,1,2020
+New Mexico,1,2020
+Nevada,1,2020
+New York,1,2020
+Ohio,1,2020
+Oklahoma,0,2020
+Oregon,1,2020
+Pennsylvania,1,2020
+Rhode Island,1,2020
+South Carolina,1,2020
+South Dakota,0,2020
+Tennessee,0,2020
+Texas,0,2020
+Utah,1,2020
+Virginia,1,2020
+Vermont,1,2020
+Washington,1,2020
+Wisconsin,0,2020
+West Virginia,0,2020
+Wyoming,1,2020
