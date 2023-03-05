@@ -64,9 +64,9 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * requests version: 2.27.1
 
 ### How to navigate the Github repo
-* The first thing to note in github is the folder data, which contains several small folders, each containing the raw data for each variable and the corresponding data cleaning ipynb file.
-* Next is the cleaned_data folder, which contains all the csv data after data cleaning, as well as all_data.ipynb that brings all the data together.
-* When all the data is processed we generate the file all_data.csv.
+* The first thing to note in github is the folder **data**, which contains several small folders, each containing the raw data for each variable and the corresponding data cleaning ipynb file.
+* Next is the **cleaned_data** folder, which contains all the csv data after data cleaning, as well as all_data.ipynb that brings all the data together.
+* When all the data is processed we generate the file **all_data.csv**.
 * Next is EDA_April+GJX.ipynb, where we use this file for data analysis and data visualization.
 * In pca_regress.ipynb, we first applied pca for dimensionality reduction, and then used multiple regression models to predict the data and analyze the performance of the model.
 ### Responsibilities:
