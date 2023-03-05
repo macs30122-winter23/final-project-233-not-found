@@ -2,24 +2,26 @@
 
 ### Project Goals
 
-Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion.
+* Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion.
 
-Use the five features above to predict rape rate.
+* Use the five features above to predict rape rate.
 
 ### Research Question:
-How does gender inequality, as measured by our 5 indicators (economic gender gap, education gender gap, health gender gap, political empowerment, and 
+* How does gender inequality, as measured by our 5 indicators (economic gender gap, education gender gap, health gender gap, political empowerment, and 
 state-level abortion law), relate to the prevalence of crimes against women in the United States? 
-To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
+* To what extent can the 5 key indicators be used as predictors of the prevalence of crimes against women in the United States?
 
 ### Findings:
- Machine Learning Model Performance：
- We used linear regression with pca, linear regression without pca, random forest regression, lasso regression, ridge regression and SVR regression to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared up to 0.60+. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is lower for human behavior related research.
+Machine Learning Model Performance：
+ 
+We used linear regression with pca, linear regression without pca, random forest regression, lasso regression, ridge regression and SVR regression to perform our prediction task, and we found that the random forest model and SVR model performed the best with an R-squared up to 0.60+. For the other models, although the R-squared is approximately 0.38, it is normal that the R-squared is lower for human behavior related research.
 
 ### Overall findings：
-* Genrally, higher gender inequality predicts lower rape rate
+* Genrally, higher gender inequality predicts lower rape rate.
 * Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
 * We are not sure about why life expectancy of women positively predicts rape rate. We hypothesize that this positive correlation may due to a high mortality of young men caused by lower public safety. Future work is needed to substantiate this hypothesis.
-* RF model has the best performance on non-linear multivariate regression task
+* RF model has the best performance on non-linear multivariate regression task.
+
 ### Team Member
 * Yingzi Jin
 * April Wang
