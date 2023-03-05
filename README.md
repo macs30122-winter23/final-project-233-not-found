@@ -69,10 +69,11 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * When all the data is processed we generate the file **all_data.csv**.
 * Next is **EDA.ipynb**, where we use this file for data exploration and visualization.
 * In **pca_regress.ipynb**, we first applied PCA for dimensionality reduction, and then used multiple machine learning regression models to predict the data and analyze the performance of the models.
-### Responsibilities:
-* April: Collect, clean, and preprocess education attainment data across 50 states from 2011 to 2020; obtain csv file for state crime data; data exploration and obtain correlation between variables 
-* Yingzi: Collect, clean, and preprocess political empowerment data across 50 states from 2011 to 2020; preprocess the crime data to obtain rape rate; modelling 
-* Ruoyi: Collect, clean, and preprocess health gender gap data across 50 states from 2011 to 2020; data analysis  
-* Guangjie: Collect and preprocess economic gender gap data across 50 states from 2011 to 2020; data visualization and display 
 
-### Slides Link:https://drive.google.com/file/d/17v2EpZjToqs1shmj8NEBZ9niwyK1FeS-/view?usp=share_link
+### Responsibilities
+* Yingzi Jin: Collected and preprocessed political empowerment data and abortion rate data, conducted traditional statistical analysis, and developed interpretations and possible explanations 
+* April Wang: Collected and preprocessed education gender gap data and state crime data, conducted exploratory data analysis, and produced the presentation slides 
+* Ruoyi Wu: Collected and preprocessed health gender gap, web scraped each state’s abortion legality, and conducted data visualization and ML modeling  
+* Guangjie Xu: Collected and preprocessed economic gender gap data, conducted data exploration and visualization, and conducted ML modeling
+
+### Slides Link: https://drive.google.com/file/d/17v2EpZjToqs1shmj8NEBZ9niwyK1FeS-/view?usp=share_link
