@@ -78,4 +78,4 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * Ruoyi Wu: Collected and preprocessed health gender gap, web scraped each state’s abortion legality, and conducted data visualization and ML modeling  
 * Guangjie Xu: Collected and preprocessed economic gender gap data, conducted data exploration and visualization, and conducted ML modeling
 
-### Slides Link: https://drive.google.com/file/d/17v2EpZjToqs1shmj8NEBZ9niwyK1FeS-/view?usp=share_link
+### Slides Link: https://docs.google.com/presentation/d/1mFIX-XcvEGXaLl_oBdiy7QMOMYVo1uXA/edit?usp=share_link&ouid=106199475184355594901&rtpof=true&sd=true
