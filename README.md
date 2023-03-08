@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * re version: 2.2.1
 * bs4 version: 4.11.1
 * requests version: 2.27.1
+* dplyr version: 1.0.4 (R)
+* jtools version: 2.2.1 (R)
+* ggplot2 version: 3.4.1 (R)
 
 ### How to navigate the Github repo
 
@@ -70,6 +73,7 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * When all the data is processed we generate the file **all_data.csv**.
 * Next is **EDA.ipynb**, where we use this file for data exploration and visualization.
 * In **pca_regress.ipynb**, we first applied PCA for dimensionality reduction, and then used multiple machine learning regression models to predict the data and analyze the performance of the models.
+* In **statistical_analysis.R**, we first applied multivariate regression model on all scaled features to expore how each feature predicted rape rate, and then applied multivariate regression models on scaled features when controlling gender of state governors, abortion legality, and both. Finally, we compared the summaries of the models. 
 
 ### Responsibilities
 
