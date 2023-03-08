@@ -80,4 +80,4 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 
 ### Slides Link: https://docs.google.com/presentation/d/1mFIX-XcvEGXaLl_oBdiy7QMOMYVo1uXA/edit?usp=share_link&ouid=106199475184355594901&rtpof=true&sd=true
 
-### Video Link: https://drive.google.com/file/d/1H3M78TNZHuXiY-_AplIMt3vtp2Bkts5j/view?usp=share_link
+### Video Link: https://docs.google.com/presentation/d/1mFIX-XcvEGXaLl_oBdiy7QMOMYVo1uXA/edit?usp=share_link&ouid=106199475184355594901&rtpof=true&sd=true
