@@ -47,7 +47,7 @@ https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/downloads/downl
 6. Abortion incidents from the CDC website. 
 https://www.cdc.gov/mmwr/preview/mmwrhtml/ss6410a1.htm  (Official data)
  
-7. Web scraped each state’s ruling result from Wikipedia page:
+7. Web scraped each state’s ruling result on abortion legality from Wikipedia page:
 https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Official data)
 
 * We transformed the data from csv files, pdf files, and web scraped data to a final csv file of all 50 states in the U.S. from 2011-2020.
