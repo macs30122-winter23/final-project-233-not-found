@@ -21,6 +21,7 @@ df_gap$gap = gap
 # to compare effect size of coefficients, we need to scale our data first 
 df_feature_scaled <- as.data.frame(scale(df_feature))
 
+
 # apply multivariate regression model on scaled data
 # dependent variable: rape_rate, independent variables: the rest
 model = lm(rape_rate~., data=df_feature_scaled)
@@ -57,6 +58,7 @@ t.test(df_f_gov$rape_rate, df_m_gov$rape_rate, 'less')
 # are significantly less than the ones of states governed by male
 
 # visualize the test results
+library(ggplot2)
 mean = c(mean(df_f_gov$rape_rate), mean(df_m_gov$rape_rate))
 sd = c(sd(df_f_gov$rape_rate), sd(df_m_gov$rape_rate))
 d = data.frame(state_gov=c('female governor', 'male governor'), mean=mean, 
@@ -89,12 +91,13 @@ summary(model_m)
 plot_summs(model_f, model_m, model.names = c("female_gov", "male_gov"))
 
 # It is interesting to see that the significance of labour_force_participation and
-# ab_rate disappers when only considering states governed by male, which implies that
+# legality appear when only considering states governed by female, which implies that
 # rape might not be well explained by gender inequality in the states governed 
 # only by men
+# we would like to also control legality 
 
 
-# control abortion legality
+# control abortion legality alone
 legal = df_feature[df_feature$legality==1,]
 illegal = df_feature[df_feature$legality==0,]
 
@@ -108,9 +111,18 @@ model_illegal = lm(rape_rate~., data=illegal_scaled)
 
 plot_summs(model_legal, model_illegal)
 
+# despite the consistency of effect of education and year, it is interesting that
+# state_legislature, life_exp_f_m, state_gov only show (marginally) significant and
+# negative impact on rape_rate in the states with illegal abortion, which we assume 
+# to be more conservative and less gender equal in general. However, 
+# labour_force_participation shows significant and positive impact on rape_rate.
+# one possible explanation is that here labour_force_participation does not 
+# reflect economic gender gap, but economy in general. Women in places that have 
+# slack economy might have to work to feed family, even though the culture there
+# does not encourage and support career women. 
 
 
-# f_gov vs. m_gov controlling 
+# control both state_gov and legality 
 # f_gov
 legal_f_gov = df_f_gov[df_f_gov$legality == 1,]
 illegal_f_gov = df_f_gov[df_f_gov$legality == 0,]
@@ -167,9 +179,7 @@ qqline(model_illegal_m$residuals)
 # 1. consistency of effect of education and year 
 # 2. only in female_illegal model, state_legislature, bachelor_wage_gap, and 
 # life_exp_f_m show significant and negative impact on rape_rate. 
-# 3. labour_Force_participation and abortion_rate show reverse significant effects 
-# on rape_rate in female_legal vs. male_illegal model, where in male_illegal model
-# there two are positively related to rape_rate. 
+
 
 
 
@@ -188,7 +198,8 @@ ggplot(df_gap, aes(x=group, y = gap)) +
   ylab('gender gap index')
 
 ## female_legal has the highest index, indicating the highest level of gender 
-# equality. Male-legal is the second highest, and male-illegal the third.
+# equality. Male-legal is the second highest, and male-illegal the third. All have
+# significance. 
 # Surprisingly, female-illegal has the lowest level of gender equality.
 # However, according to a comment from the discussion panel, it is reasonable to
 # see the results. If a state prohibits abortion, then it should be a more 
@@ -196,28 +207,8 @@ ggplot(df_gap, aes(x=group, y = gap)) +
 # in such state, it is likely that she is more conservative than the average
 # and may not bring attention to gender-related issues to canvass for votes.
 
-ggplot(df_gap, aes(x=group, y = rape_rate)) +
-  #draws the means
-  stat_summary(fun.data = "mean_cl_normal",geom = "point") + 
-  #draws the CI error bars
-  stat_summary(fun.data = "mean_cl_normal", geom = "errorbar", width=0.5)+
-  xlab('state_gov x legality')+
-  ylab('gender gap index')
 
-
-## control both gov and legality
-group <- ifelse(df_feature$state_gov == 1 & df_feature$legality == 1, "female_legal",
-                ifelse(df_feature$state_gov == 1 & df_feature$legality == 0, "female_illegal",
-                       ifelse(df_feature$state_gov == 0 & df_feature$legality == 1, "male_legal",
-                              "male_illegal")))
-
-ggplot(df_feature, aes(x = group, y = gap)) + 
-  geom_boxplot(color="black", fill='light blue',alpha=0.5)+
-  xlab('state_gov x legality') + guides(fill=guide_legend(title="group")) +
-  theme(legend.position="none")+
-  theme_bw()
-
-
+## 
 
 
 
