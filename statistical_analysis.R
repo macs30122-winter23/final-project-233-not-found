@@ -39,7 +39,7 @@ qqline(model$residuals)
 
 # results: 
 # 1.significant and negative relationships with rape_rate, all else being equal:
-# education, labour_force_participation, ab_rate
+# education
 # 2. significant and positive relationships with rape_rate, all else being equal:
 # year, life_exp_f_m
 
