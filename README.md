@@ -3,7 +3,7 @@
 
 ### Project Goals
 
-* Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion.
+* Explore the relationships between crime against women and five of the following features by state: economic gender gap, education gender gap, health gender gap, political power, and each state’s ruling result on abortion legality.
 
 * Use the five features above to predict rape rate.
 
@@ -28,7 +28,7 @@ state-level abortion law), relate to the prevalence of crimes against women in t
 
 ### Data
 
-* We gathered information of economic, education, health gender gap, political empowerment, rape rate, and ruling result of each state from multiple sources. 
+* We gathered information of economic, education, health gender gap, political empowerment, rape rate, and ruling result on abortion legality of each state from multiple sources. 
 
 1. Economic data from United States Census Bureau website. https://data.census.gov/table?q=earnings++by+sex+in+%09Virginia&tid=ACSST1Y2019.S2001 (Official data)
   
