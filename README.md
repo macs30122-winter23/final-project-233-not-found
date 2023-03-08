@@ -15,7 +15,7 @@ state-level abortion law), relate to the prevalence of crimes against women in t
 
 ### Overall findings
 
-* Generally, higher gender inequality predicts lower rape rate.
+* Generally, higher gender inequality predicts higher rape rate.
 * Specifically, higher proportion of women receiving degrees of or above high school, working, or having political power is associated with lower rape rate.
 * We are not sure about why life expectancy of women positively predicts rape rate. We hypothesize that this positive correlation may due to a high mortality of young men caused by lower public safety. Future work is needed to substantiate this hypothesis.
 * Machine Learning Model Performance：We used linear regression with PCA, linear regression without PCA, random forest regression, lasso regression, ridge regression and SVR to perform our prediction task, and we found that the random forest model and SVR model performed the best with R-squared scores around 0.60, as they are best for non-linear multivariate regression task. For the other models, although the R-squared is approximately 0.38, it is common that the R-squared is low for human behavior related research.
