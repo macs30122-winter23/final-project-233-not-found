@@ -81,7 +81,3 @@ https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state (Offici
 * April Wang: Collected and preprocessed education gender gap data and state crime data, conducted exploratory data analysis, and produced the presentation slides 
 * Ruoyi Wu: Collected and preprocessed health gender gap, web scraped each state’s abortion legality, and conducted data visualization and ML modeling  
 * Guangjie Xu: Collected and preprocessed economic gender gap data, conducted data exploration and visualization, and conducted ML modeling
-
-### Slides Link: https://docs.google.com/presentation/d/1mFIX-XcvEGXaLl_oBdiy7QMOMYVo1uXA/edit?usp=share_link&ouid=106199475184355594901&rtpof=true&sd=true
-
-### Video Link: https://drive.google.com/file/d/1lqWKhohDQ7-6_LIf0z6qiou1PSqljaYt/view?usp=share_link
